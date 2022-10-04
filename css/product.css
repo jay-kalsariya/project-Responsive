@@ -1,0 +1,111 @@
+.view {
+  display: flex;
+  gap: 1px;
+  margin: 30px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cardData img {
+  width: 200px;
+  height: 200px;
+}
+
+  .cardData{
+    background-color: #fff;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius:8px;
+    text-align: center;
+    margin: 8px;
+    padding: 16px;
+    box-shadow: 0px 0px 15px 0px;
+  }
+  .abc{
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    left: 1015px;
+    top: 94px;
+    background-color: white;
+    /* height: 151px; */
+    width: 256px;
+    border-radius: 10px;
+}
+
+  .def{
+    width: 190px;
+    border: none;
+    background: #764abc;
+    padding: -4px 22px;
+    position: relative;
+    top: 25px;
+    margin: 37px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+  
+  .def:hover{
+    background: rgb(133, 216, 112);
+  }
+
+  .errorimg{
+    height: 610px;
+    width: 100%;
+  }
+  .btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 255px;
+    background: #764abc;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  .btn1:hover{
+    background: rgb(133, 216, 112);
+  }
+  form.example button {
+    height: 32px;
+    width: 40px;
+    padding: 11px;
+    background: #2196f3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+  }
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  .fa{
+    font-weight: 1000;
+      position: relative;
+      top: -7px;
+  }
+    
+  form.example input[type="text"] {
+    padding: 1px;
+    font-size: 18px;
+    border: 2px solid grey;
+    background: #f1f1f1;
+    border-radius: 5px;
+  }
+  form.example {
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    margin: 17px;
+}
+
+  
+    
+  
