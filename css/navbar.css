@@ -43,12 +43,3 @@ img {
   border: none;
 }
 
-hr {
-  background: white;
-}
-a:hover {
-  background-color: darkgoldenrod;
-  box-sizing: border-box;
-  border-radius: 10px;  
-  /* box-shadow: 3px 3px 2px 2px; */
-}
